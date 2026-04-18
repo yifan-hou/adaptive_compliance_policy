@@ -186,11 +186,13 @@ The full stiffness matrix is reconstructed from policy outputs in `virtual_targe
 ## Citation
 If you find this codebase useful, feel free to cite our paper:
 ```bibtex
-@article{hou2024adaptive,
-  title={Adaptive Compliance Policy: Learning Approximate Compliance for Diffusion Guided Control},
+@inproceedings{hou2025adaptive,
+  title={Adaptive compliance policy: Learning approximate compliance for diffusion guided control},
   author={Hou, Yifan and Liu, Zeyi and Chi, Cheng and Cousineau, Eric and Kuppuswamy, Naveen and Feng, Siyuan and Burchfiel, Benjamin and Song, Shuran},
-  journal={arXiv preprint arXiv:2410.09309},
-  year={2024}
+  booktitle={2025 IEEE International Conference on Robotics and Automation (ICRA)},
+  pages={4829--4836},
+  year={2025},
+  organization={IEEE}
 }
 ```
 
